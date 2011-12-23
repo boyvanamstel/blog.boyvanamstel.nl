@@ -17,6 +17,8 @@ Besides the above I like to work on streamlining development processes by crafti
 
 You may know me from sites like [Please Rob Me](http://www.pleaserobme.com/) and [ePenis](http://www.epenis.nl/). Also checkout my [GitHub page](http://github.org/boyvanamstel) and [follow me on Twitter](http://twitter.com/boyvanamstel).
 
+In 2011 I founded a company called [Danger Cove](http://dangercove.com), aimed at creating awesome concepts and products, at Pirate Lightning Speed :).
+
 Do you have a project you’d like me to work on? [Contact me](mailto:info@boyvanamstel.nl)!
 
 
