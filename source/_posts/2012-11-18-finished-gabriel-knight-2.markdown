@@ -3,7 +3,7 @@ layout: post
 title: "Finished Gabriel Knight 2"
 date: 2012-11-18 18:47
 comments: true
-categories: [Now Playing, Games, Retro]
+categories: [now playing, games, retro]
 ---
 
 (Right, I ignored this part of the internet for almost a year.)
