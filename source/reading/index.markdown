@@ -1,0 +1,50 @@
+---
+layout: page
+title: "reading"
+comments: true
+sharing: true
+footer: true
+---
+
+Books I totally recommend. In no particular order and in no way a complete list.
+
+<ul>
+  <li>
+    <a href="http://www.amazon.co.uk/gp/product/0307474313/ref=as_li_tf_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0307474313&linkCode=as2&tag=boysnot-21">Extra Lives: Why Video Games Matter</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=boysnot-21&l=as2&o=2&a=0307474313" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    <p>Best book about the video game industry I read.</p>
+  <li>
+    <a href="http://www.amazon.co.uk/gp/product/1119975085/ref=as_li_tf_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1119975085&linkCode=as2&tag=boysnot-21">HTML5 Games: Creating Fun with HTML5, CSS3 and WebGL</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=boysnot-21&l=as2&o=2&a=1119975085" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    <p></p>
+  </li>
+  <li>
+    <a href="http://www.amazon.co.uk/gp/product/0385343809/ref=as_li_tf_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0385343809&linkCode=as2&tag=boysnot-21">Just Like Someone Without Mental Illness Only More So: A Memoir</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=boysnot-21&l=as2&o=2&a=0385343809" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    <p>How a guy went from suffering mental breakdowns to Harvard, to being a doctor suffering mental breakdowns etc.</p>
+  <li>
+    <a href="http://www.amazon.co.uk/gp/product/0596806752/ref=as_li_tf_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0596806752&linkCode=as2&tag=boysnot-21">JavaScript Patterns</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=boysnot-21&l=as2&o=2&a=0596806752" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    <p></p>
+  </li>
+  <li>
+    <a href="http://www.amazon.co.uk/gp/product/0123694965/ref=as_li_tf_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0123694965&linkCode=as2&tag=boysnot-21">The Art of Game Design: A book of lenses</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=boysnot-21&l=as2&o=2&a=0123694965" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    <p></p>
+  </li>
+  <li>
+    <a href="http://www.amazon.co.uk/gp/product/1851689397/ref=as_li_tf_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1851689397&linkCode=as2&tag=boysnot-21">You are Not So Smart: Why Your Memory is Mostly Fiction, Why You Have Too Many Friends on Facebook, and 46 Other Ways You're Deluding Yourself.</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=boysnot-21&l=as2&o=2&a=1851689397" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    <p>Can't stop reading about sociological experiments.</p>
+  </li>
+  <li>
+    <a href="http://www.amazon.co.uk/gp/product/0061914185/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0061914185&linkCode=as2&tag=boysnot-21">The Thank You Economy</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=boysnot-21&l=as2&o=2&a=0061914185" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    <p></p>
+  </li>
+  <li>
+    <a href="http://www.amazon.co.uk/gp/product/0749924896/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0749924896&linkCode=as2&tag=boysnot-21">Masters Of Doom: How two guys created an empire and transformed pop culture</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=boysnot-21&l=as2&o=2&a=0749924896" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    <p>A great look into the history of some of my favorite games.</p>
+  </li>
+  <li>
+    <a href="http://www.amazon.co.uk/gp/product/0316212180/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0316212180&linkCode=as2&tag=boysnot-21">Ghost In The Wires: My Adventures as the World's Most Wanted Hacker</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=boysnot-21&l=as2&o=2&a=0316212180" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    <p></p>
+  </li>
+  <li>
+    <a href="http://www.amazon.co.uk/gp/product/0552997048/ref=as_li_tf_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0552997048&linkCode=as2&tag=boysnot-21">A Short History Of Nearly Everything</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=boysnot-21&l=as2&o=2&a=0552997048" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    <p>Title says it all. How the world's greatest scientific discoveries were done.</p>
+  </li>
+</ul>
