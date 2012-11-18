@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://blog.boyvanamstel.nl
-title: Boy van Amstel
-subtitle: Boy's nifty stuff, or whatever..
+title: Boy's Notebook
+subtitle: About programming and games.
 author: Boy van Amstel
 simple_search: http://google.com/search
-description:
+description: Me talking about the games I'm playing and the stuff I'm working on.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

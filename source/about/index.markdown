@@ -1,24 +1,33 @@
 ---
 layout: page
 title: "About"
-date: 2011-08-29 23:54
 comments: false
 sharing: true
 footer: true
 ---
 
-My name is Boy. I love to create clever concepts and applications for all kinds of platforms.
+My name is Boy. I'm a creative programmer, experimenter, video game collector and snowboarder from The Hague, the Netherlands.
 
-I love web services, HTML5, CSS3, Javascript, Ruby (on Rails), Python, PHP, Objective-C, Java, Git, Linux, OSX, snowboarding & retro video games. I also have horrible [taste in music](http://www.last.fm/user/boyvanamstel).
+<div class="screenshot">
+{% img /images/2011-croatia-woods-small.png 'Me in Croatia' 'Me in Croatia' %}
+</div>
 
-My area of expertise lies in using existing (cloud) services to rapidly create innovative applications. Preferably using client-side scripting (javascript), frameworks like Ruby on Rails or mobile platforms such as Android and iPhone/iPad.
+Most of my days are spent working on projects for the company I founded in 2011, called [Danger Cove](http://dangercove.com). We create apps that make our lives easier and sell them to people that are similar to us. [Porthole](http://getporthole.com) for example, which allows you to stream audio to multiple AirPlay speakers. We also tell other companies how to [manage their products](http://zeewaardig.com).
 
-Besides the above I like to work on streamlining development processes by crafting tools and implementing systems like Git.
+I'm particularly interested in experimenting with new technology and making it accessible to a broader audiance. Usually through simple experiments. Check out [my GitHub page](http://github.org/boyvanamstel) or [the one we keep at Danger Cove](http://github.com/dangercove) for some of those. I also like to reflect on how people interact with technical innovations using websites like [Please Rob Me](http://www.pleaserobme.com/) and [ePenis](http://www.epenis.nl/).
 
-You may know me from sites like [Please Rob Me](http://www.pleaserobme.com/) and [ePenis](http://www.epenis.nl/). Also checkout my [GitHub page](http://github.org/boyvanamstel) and [follow me on Twitter](http://twitter.com/boyvanamstel).
+You can contact me for a pleasant conversation, public speaking or help with something you're working on. I like to talk about the following topics:
 
-In 2011 I founded a company called [Danger Cove](http://dangercove.com), aimed at creating awesome concepts and products, at Pirate Lightning Speed :).
+* Rapid development and prototyping;
+* Native Mac applications and Objective-C;
+* Native mobile applications and Android and iOS;
+* Web sites/apps and HTML5, CSS3, Javascript, WebGL, Ruby on Rails and NodeJS;
+* Product management and statistics;
+* Video games.
 
-Do you have a project you’d like me to work on? [Contact me](mailto:info@boyvanamstel.nl)!
-
+To get in touch, use one of services below.
+<h2>Contact me</h2>
+* <strong>Twitter</strong>: [@boyvanamstel](http://twitter.com/boyvanamstel)
+* <strong>Email</strong>: boy [at] this domain
+* <strong>Business</strong>: [dangercove.com](http://dangercove.com)
 
