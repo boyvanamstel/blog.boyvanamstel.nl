@@ -19,6 +19,8 @@ This screenshot shows Facebook, looking rather broken, and DOOM in the front. id
 {% img /images/media/nextstep/openstep-xcode-interfacebuilder.png %}
 While Xcode 4.2 and InterfaceBuilder 4.2 were released almost two decades apart, they feel strikingly similar; dragging and dropping components and attaching their outlets to 'First Responders', it's all there.
 
+EDIT: Over at [Hacker News](http://news.ycombinator.com/item?id=3405927), [Zev](http://news.ycombinator.com/user?id=Zev) provided [a link to a video](http://cdn.secondconf.com/2010/videos/SecondConf-GeneBacklin-17425.mp4) of Gene Backlin giving a talk at [SecondConf](http://www.secondconf.com/videos/) last year, titled 'NeXT to X'. About 21 minutes into the video Gene walks through a screenshot supported comparison of creating the exact same app using development environments that were created 20 years apart.
+
 YouTube has some pretty cool videos that show Steve Jobs demoing NeXTSTEP. Like this one, where Steve talks about what he calls 'interpersonal computing':
 <iframe width="420" height="315" src="http://www.youtube.com/embed/-1wYy5qvA24" frameborder="0" allowfullscreen></iframe>
 
