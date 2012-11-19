@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Now Playing"
+title: "Games"
 comments: true
 sharing: true
 footer: true
@@ -8,8 +8,8 @@ footer: true
 
 Video games have been a pretty constant hobby for me, but it seems to have changed in some form of hoarding; buying more than I want or can play. Instead of just buying a single game and finish it, now I play several, usually depending on the situation/location I'm in. These are the games I'm currently playing or look forward to playing.
 
-<h2>Computer game</h2>
-The game I play on my laptop.
+<h2>Big screen game</h2>
+The game I play on my computer or consoles.
 
 <strong>None in particular.</strong>
 Maybe [Wing Commander Privateer](http://en.wikipedia.org/wiki/Wing_Commander:_Privateer) from the recent gog.com promo.
@@ -18,12 +18,6 @@ I just finished [Gabriel Knight 2: the Beast Within](http://en.wikipedia.org/wik
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/WIkh8WdrDeU?rel=0" frameborder="0" allowfullscreen></iframe>
 The intro and some gameplay.
-
-<h2>Console game</h2>
-
-<strong>None</strong>
-
-Somehow I haven't been playing games on my Xbox or Playstation 3. Even thinking about buying a PC again..
 
 <h2>Bed game</h2>
 The game that's on my nightstand.
@@ -41,3 +35,17 @@ I backed [the Kickstarter project](http://www.kickstarter.com/projects/stainless
 
 <iframe width="480" height="270" src="http://www.youtube.com/embed/7BwcC7Bsfsc?rel=0" frameborder="0" allowfullscreen></iframe>
 Carmageddon on iOS.
+
+<h2>Related posts</h2>
+<div id="blog-archives" class="category">
+{% for post in site.categories['games'] %}
+{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% unless year == this_year %}
+  {% assign year = this_year %}
+  <h2>{{ year }}</h2>
+{% endunless %}
+<article>
+  {% include archive_post.html %}
+</article>
+{% endfor %}
+</div>
