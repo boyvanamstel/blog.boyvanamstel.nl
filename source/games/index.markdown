@@ -11,20 +11,18 @@ Video games have been a pretty constant hobby for me, but it seems to have chang
 <h2>Big screen game</h2>
 The game I play on my computer or consoles.
 
-<strong>None in particular.</strong>
-Maybe [Wing Commander Privateer](http://en.wikipedia.org/wiki/Wing_Commander:_Privateer) from the recent gog.com promo.
+<strong>Tomb Raider and Starcraft II: Heart of the Swarm.</strong>
 
-I just finished [Gabriel Knight 2: the Beast Within](http://en.wikipedia.org/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery); the best FMV game of the 90s (I don't think they were made in any other decade). When it came out, it blew my mind. Now it looks pretty dated, but it offers such an immersive experience. The story is awesome and most of the acting is pretty good. The game's depiction of Germany, German people and American actors talking in German is especially memorable.
+They both blow me away. Super much fun to play. Tomb Raider does remind me a little too much of Uncharted (which of course is funny, as Uncharted borrows a lot from the earlier Tomb Raider games) and focuses too much on shoot-outs to my taste, but plays like a dream. Very adventurous.
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WIkh8WdrDeU?rel=0" frameborder="0" allowfullscreen></iframe>
-The intro and some gameplay.
+Heart of the Swarm grips me a lot faster than Wings of Liberty. The story feels better and is much more exciting.
 
 <h2>Bed game</h2>
 The game that's on my nightstand.
 
-<strong>Final Fantasy VII/Resident Evil/Metal Gear Solid 2</strong>
+<strong>Resident Evil 2/Lumines</strong>
 
-Final Fantasy VII and Resident Evil are PSOne classics, but they're still awesome. I think I'll keep replaying those forever. They play pretty awesome on the PS Vita. The Metal Gear Solid HD collection is my first hand at part 2 and 3 in the series. Reasonably fun to play. Sometimes I throw in some Wipeout HD or Super Stardust Delta.
+Sony finally added Resident Evil 2 for PS Vita to the European Playstation Store. Still is one of my favorite parts in the series.
 
 <h2>Toilet game</h2>
 Or the game that I play when I have a few minutes to spare.

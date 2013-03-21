@@ -12,9 +12,9 @@ My name is Boy van Amstel. I'm a creative programmer, experimenter, video game c
 {% img /images/2011-croatia-woods-small.png 'Me in Croatia' 'Me in Croatia' %}
 </div>
 
-Most of my days are spent working on projects for the company I founded in 2011, called [Danger Cove](http://dangercove.com). We create apps that make our lives (and the lives of others, of course) easier. [Porthole](http://getporthole.com) for example, allows you to stream audio to multiple AirPlay speakers. We also tell other companies how to [manage their products](http://zeewaardig.com).
+Most of my days are spent working on projects for the company I founded in 2011, called [Danger Cove](http://dangercove.com). I make apps that make my live (and the lives of others, hopefully) easier. [Porthole](http://getporthole.com) for example, allows you to stream audio to multiple AirPlay speakers.
 
-I'm particularly interested in experimenting with new technology and making it accessible to a broader audiance. Usually through simple experiments. Check out [my GitHub page](http://github.org/boyvanamstel) or [the one we keep at Danger Cove](http://github.com/dangercove) for some of those. I also like to reflect on how people interact with technical innovations using websites like [Please Rob Me](http://www.pleaserobme.com/) and [ePenis](http://www.epenis.nl/).
+I'm particularly interested in experimenting with new technology and making it accessible to a broader audiance. Usually through simple experiments. Check out [my GitHub page](http://github.org/boyvanamstel) or [the one I keep at Danger Cove](http://github.com/dangercove) for some of those. I also like to reflect on how people interact with technical innovations using websites like [Please Rob Me](http://www.pleaserobme.com/) and [ePenis](http://www.epenis.nl/).
 
 You can contact me for a pleasant conversation, public speaking or help with something you're working on. I like to talk about the following topics:
 
