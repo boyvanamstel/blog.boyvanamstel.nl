@@ -4,3 +4,20 @@
 html { background: #101418 url('/images/bg.jpg') 50% 0; }
 
 .screenshot { text-align: center; }
+
+body { font-size: 1.3em; }
+
+body>div,
+body>div>div { background: #fff; }
+
+
+aside.sidebar {
+  section:first-child {
+    margin-top: 40px;
+  }
+  img {
+    border: 0;
+    @include border-radius(none);
+    @include box-shadow(none);
+  }
+}
