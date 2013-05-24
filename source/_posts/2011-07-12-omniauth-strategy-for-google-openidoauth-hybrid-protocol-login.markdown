@@ -6,7 +6,9 @@ comments: true
 categories: [rails, oauth, google]
 ---
 
-Quite the title and quite cool to use. The Hybrid Protocol combines OpenID and OAuth in such a way that with one flow you can ask for authentication (and get someones account information, like name and email) and authorization (a token) for a set of services specified in a scope
+Quite the title and quite cool to use. The Hybrid Protocol combines OpenID and OAuth in such a way that with one flow you can ask for authentication (and get someones account information, like name and email) and authorization (a token) for a set of services specified in a scope.
+
+<!-- more -->
 
 Apart from providing a much cleaner user experience, it’ll save you a bunch of code. Especially via Omniauth.
 

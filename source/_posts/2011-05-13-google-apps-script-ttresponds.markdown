@@ -12,6 +12,8 @@ TTResponds is a Google Apps Script that allows you to automatically send a confi
 
 It’s been available for a while in the Script Gallery, but I haven’t gotten around to write about it. The reason I’m doing so right now, is because I’ve received a couple of returning questions that I can probably better answer right here.
 
+<!-- more -->
+
 ## Installing
 
 First login to your Google Docs environment, [docs.google.com](http://docs.google.com) and Google Apps both work fine. After that, choose to create a new Form.

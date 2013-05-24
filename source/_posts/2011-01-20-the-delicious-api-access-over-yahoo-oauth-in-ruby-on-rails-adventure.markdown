@@ -10,6 +10,8 @@ I spent a little time today getting Yahoo’s OAuth implementation to work with 
 
 First, what I tried to accomplish:
 
+<!-- more -->
+
 1. Have a user sign in with his/her Delicious account
 2. Use the Delicious username to retrieve a bunch of feeds
 

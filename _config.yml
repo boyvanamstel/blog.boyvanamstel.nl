@@ -64,12 +64,15 @@ default_asides: [asides/dangercove.html] #[asides/recent_posts.html, asides/soci
 #github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: boyvanamstel
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: true
 twitter_tweet_button: true
+
+# ADN
+adn_user: boyvanamstel
 
 # Google +1
 google_plus_one: true

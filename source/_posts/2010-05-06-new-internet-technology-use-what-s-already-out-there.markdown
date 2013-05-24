@@ -10,6 +10,8 @@ I’ve had this article on my computer for three months now, but never got aroun
 
 It’s interesting to see that the standard process of thinking of something new, trying to figure out how to make money from it, creating it and then releasing it to the public seems to have changed. A business model does not necessarily come first anymore. A new process could be described similar to this: have an idea, create a very basic implementation and provide an extensive platform for people to use what you’ve created, hand it over to the community, now find a way to make money or hope for a takeover by some enterprise (Google). This makes new technology much more accessible than it’s ever been. A lot of effort is put into making it easy for other people to use and mashup what’s been created.
 
+<!-- more -->
+
 ## Detect and use
 
 Needless to say a skill that’s becoming increasingly useful, is the ability to detect these services and find ways to implement them in your own concepts. YouTube, Twitter and Flickr have all been fully embraced by the community, which means the movies, images and messages they store show up on all kinds of applications. Some with a lot easier business model than the services they’ve incorporated. Twitter clients for instance, have a price tag or use adds to turn a profit, while Twitter is still struggling to find a way to make money.

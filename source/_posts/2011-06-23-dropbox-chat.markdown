@@ -8,6 +8,8 @@ categories: [dropbox, ruby]
 
 Have you ever wondered how well Dropbox would work as a chat application? I did and I finally created a client for it. The concept of having Dropbox handle all the complicated server side stuff is very appealing and actually works quite wel.
 
+<!-- more -->
+
 The use case I can imagine happening is that you want to share and store quick conversations you have with co-workers/friends while working on a project. Instead of navigating to Basecamp, emailing (which is less direct) or copy-pasting chat logs, you can just open the Dropbox chat client and have a short conversation. The chat log is right there in the same folder and the only thing you have to do to get it to work, is drop the application in the Dropbox project folder you’re working on.
 
 The experiment is really easy to setup. Just clone/download [the repository on GitHub](https://github.com/boyvanamstel/Dropbox-Chat). Put the folder in your Dropbox folder and share the folder with your friends.

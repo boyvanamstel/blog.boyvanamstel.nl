@@ -10,6 +10,8 @@ Do you use GitHub’s Gists? Then you might like this.
 
 Sharing code among co-workers and friends is quite easy using various ‘code snippit’ sharing websites. I personally like GitHub’s Gists. To make sharing even easier and keep everybody up to date of what’s being shared, I wanted to create a feed out of my Gists. Of course I could just use GitHub’s own RSS feeds, but that would screw up my reason to do something with App Engine.
 
+<!-- more -->
+
 {% img /images/media/girrst/appengine.png %}
 
 Using Python and App Engine I threw together a script that will take your GitHub username and turn all your Gists into a convenient RSS feed. You can then use the feed to include it anywhere, like your favorite RSS reader or your blog.

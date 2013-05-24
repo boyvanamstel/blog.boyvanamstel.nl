@@ -8,6 +8,8 @@ categories: [google, cloud, javascript]
 
 I’ve updated [TTResponds](http://blog.boyvanamstel.nl/2011/05/google-apps-script-ttresponds/) to include some requests people have made.
 
+<!-- more -->
+
 * You can now specify if you want to send HTML emails.
 * You can set the sheet being used for the form (defaults to the first one).
 * You can limit the amount of emails being sent. Just the first 10 entries for example (-1 is unlimited).

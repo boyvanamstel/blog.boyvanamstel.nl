@@ -8,6 +8,8 @@ categories: [games, computer]
 
 Like I [mentioned earlier]({% post_url 2012-12-03-computer-components %}) I was looking into buying a computer. During the Christmas holiday (smart move, not) I decided to actually place the order. The components arrived last friday.
 
+<!-- more -->
+
 <table width=100% border=1 bordercolor=#dcdcdc fontsize=12 cellpadding=4>
 	<tr>
 		<td bgcolor=#ededed align=center><b>#</b></td>

@@ -12,6 +12,11 @@
   border: $border;
 }
 
+@mixin reset-shadow-box() {
+  @include box-shadow(none);
+}
+
+
 @mixin selection($bg, $color: inherit, $text-shadow: none){
   * {
     &::-moz-selection { background: $bg; color: $color; text-shadow: $text-shadow; }

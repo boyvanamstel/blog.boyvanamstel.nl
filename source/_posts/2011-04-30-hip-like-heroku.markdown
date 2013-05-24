@@ -8,6 +8,8 @@ categories: [cloud, programming, rails]
 
 Usually I deploy projects on my physical server, located at the server park called “former bedroom at my parents’”. This allows me to see how a project develops and migrate to a better server (which costs more money) if it’s successful. This is also the case for [hiplikejapie.nl](http://hiplikejapie.nl/).
 
+<!-- more -->
+
 I’ve been deploying a couple of experiments to Heroku and the platform really appeals to me. Deploying itself is a breeze and the “add-ons” model is pretty cool. Also, it’s free if you can manage with a 5mb database, 1 dyno en 0 workers. Projects in a developing stage usually do. I’ve never launched a project from it though. Primarily because I don’t want the to run into insane hosting costs if something like [Please Rob Me](http://pleaserobme.com/) happens. In any case the ability to scale a project and not worrying about server setup and stuff is awesome.
 
 Hip Like Japie hasn’t really took off (yet?), but is doing mildly ok with a bunch of visitors every day. It being a finished product made it interesting for me to see how well it would deploy.

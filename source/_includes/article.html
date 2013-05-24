@@ -24,5 +24,8 @@
     </footer>
   {% endif %}
 {% else %}
-<div class="entry-content">{{ content }}</div>
+<div class="entry-content">
+  {{ content }}
+  {% include custom/follow.html %}
+</div>
 {% endif %}

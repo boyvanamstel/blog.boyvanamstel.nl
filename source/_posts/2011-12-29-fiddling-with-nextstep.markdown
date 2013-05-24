@@ -10,6 +10,8 @@ I bought my first Mac just 3 or 4 years ago. Before that I used to alternate bet
 
 This week I realised that while I'm quite familiar with the history of DOS, Windows, Linux, Amiga, C64, BeOS and so on, Mac OSX's predecessors are a mystery to me. A few brief experiences with NeXT workstations and iMacs in public places aside, I've never used the system before OSX. Obviously exploring this makes for a perfect spare time project. I managed to install [NeXTSTEP](http://en.wikipedia.org/wiki/NeXTSTEP) in [Parallels](http://en.wikipedia.org/wiki/Parallels,_Inc.) and tried to get past greyscale graphics, which proved to be difficult. After reading some experiences by others I swithed to [VirtualBox](https://www.virtualbox.org/), which allows you to customize hardware properties, like ethernet cards and sound devices. VirtualBox with [OPENSTEP](http://en.wikipedia.org/wiki/Openstep) (NeXTSTEP with OpenStep) and the latest update almost provides a plug and play experience due to much improved driver support. I took some screenshots running OPENSTEP 4.2 at 1024x768 pixels with 32bit colors (a setup that cost about $ 15,000 when it was released).
 
+<!-- more -->
+
 {% img /images/media/nextstep/openstep-dangercove.png %}
 A screenshot of [DangerCove.com](http://dangercove.com). [OmniWeb](http://www.omnigroup.com/products/omniweb/) (like all browsers at the time) lacked support for stylesheets, or almost any of the features we're used to today. Enabling javascript caused every site I tried to crash.
 

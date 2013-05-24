@@ -8,6 +8,8 @@ categories: [programming, wordpress, streamlining, python]
 
 Working on WordPress projects can be a hassle. Especially if there’s more than one developer. There are a lot of files and chances are huge that you’ll be working on the same files quite often. This slows down development tremendously, not to mention the annoyance it causes.
 
+<!-- more -->
+
 You can fix the ‘working on the same file’ and ‘working on the live server’ issues quite adequately by using version control. I prefer Git, because of it’s distributed character. WordPress has another issue however, when trying to run the same site on different machines. Among the data it stores are urls, absolute urls.. This means that if you’d load a database dump from a live WordPress site into your local install, nothing will work correctly.
 
 [WordPress Project Creator](https://github.com/boyvanamstel/Wordpress-Project-Creator) [github] is a tool I created to streamline working on WordPress projects with multiple people. It does a couple of things:

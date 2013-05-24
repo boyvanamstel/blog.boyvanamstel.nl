@@ -8,6 +8,8 @@ categories: [games, computer]
 
 I have been planning to buy a new computer (not a Mac). To play games on and maybe start some Windows projects for [Danger Cove](http://dangercove.com). I'm having a hard time to just go ahead and purchase the components though. This is the list I've been staring at for a few weeks now.
 
+<!-- more -->
+
 <table width=100% border=1 bordercolor=#dcdcdc fontsize=12 cellpadding=4>
 	<tr>
 		<td bgcolor=#ededed align=center><b>#</b></td>

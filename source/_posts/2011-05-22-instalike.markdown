@@ -8,6 +8,8 @@ categories: [inspiration, android, facebook, apps]
 
 We had a Saturday Night of Awesome this weekend and came up with the idea to create an iPhone and [Android app](https://market.android.com/details?id=nl.wednesdaysofawesome.android.instalike) that allows you to share images to Facebook very quickly. A few hours later both apps were done and the Android app is already live.
 
+<!-- more -->
+
 The iPhone App will be released as soon as Apple approves it.
 
 {% img /images/media/instalike/store.png %}

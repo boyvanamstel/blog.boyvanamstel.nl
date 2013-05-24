@@ -8,6 +8,8 @@ categories: [location based services, web apps, foursquare, twitter, viral]
 
 Hey, do you have a Twitter account? Have you ever noticed those messages in which people tell you where they are? Pretty annoying, eh. Well, they’re actually also potentially pretty dangerous. I’m about to tell you why.
 
+<!-- more -->
+
 Don’t get me wrong, I love the whole location-aware thing. The information is very interesting and can be used to create some pretty awesome applications. However, the way in which people are stimulated to participate in sharing this information, is less awesome. Services like Foresquare allow you to fulfill some primeval urge to colonize the planet. A part of that is letting everyone know you own that specific spot. You get to tell where you are and if you’re there first, it’s yours. O, and of course there’s badges..
 
 {% img /images/media/pleaserobme/pleaserobme_foursquare.jpg %}
