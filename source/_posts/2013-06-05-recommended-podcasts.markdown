@@ -8,8 +8,6 @@ categories: [podcasts]
 
 Tweeting about [Instacast](http://vemedio.com/products/instacast3) made me review the podcasts I like. Why not share them here?
 
-<blockquote class="twitter-tweet"><p>Somehow I keep forgetting the name of 'Instacast' and have to look it up in my Applications folder. Such an awesome podcast app though.</p>&mdash; Boy van Amstel (@boyvanamstel) <a href="https://twitter.com/boyvanamstel/status/342187607129735168">June 5, 2013</a></blockquote>
-
 <!-- more -->
 
 Most shows on my list are Apple development and game orientated. I'm still looking for a few that cover web development. Anyway, in a _slightly_ particular order, these are the podcasts I enjoy listening to.
