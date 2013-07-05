@@ -8,6 +8,8 @@ categories: [games, kickstarter]
 
 Some random coincidence caused both the Ouya and Oculus Rift to arrive at my doorstep this week. One day after each other. The Ouya on Wednesday, the Oculus on Thursday. I backed the [Ouya kickstarter project](http://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console) nearly a year ago.
 
+{% imgcap /images/media/ouya/ouya-arrived.jpg Unpacking the Ouya %}
+
 <!-- more -->
 
 I haven't gotten a chance to give them a proper spin, but I can say they're both quite impressive. The Ouya lacks great games, but makes up for it by its looks and emulators. The Oculus Rift is even more mind blowing than I thought, but left me inches from puking after about five minutes of wearing it. Apparently [this happens more often](http://martincaine.com/gaming/day_one_with_the_oculus_rift_nausea) and should get better after getting used to the effect.
