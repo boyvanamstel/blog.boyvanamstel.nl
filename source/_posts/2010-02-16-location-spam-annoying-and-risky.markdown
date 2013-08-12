@@ -3,7 +3,7 @@ layout: post
 title: "Location spam, annoying and.. risky?"
 date: 2010-02-16 22:01
 comments: true
-categories: [location based services, web apps, foursquare, twitter, viral]
+categories: [location based services, web apps, foursquare, twitter, virals]
 ---
 
 Hey, do you have a Twitter account? Have you ever noticed those messages in which people tell you where they are? Pretty annoying, eh. Well, they’re actually also potentially pretty dangerous. I’m about to tell you why.

@@ -9,7 +9,7 @@ footer: true
 I'm Boy van Amstel, an independent creative programmer, experimenter, video game collector and snowboarder from The Hague, the Netherlands.
 
 <div class="screenshot">
-{% img /images/2011-croatia-woods-small.png 'Me in Croatia' 'Me in Croatia' %}
+{% img /images/2013-venice2-small.jpg Me in Venice %}
 </div>
 
 Most of my days are spent working on apps for the company that I founded in 2011, called [Danger Cove](http://dangercove.com). [Porthole](http://getporthole.com) for example; a Mac app that allows you to stream audio to multiple AirPlay speakers.

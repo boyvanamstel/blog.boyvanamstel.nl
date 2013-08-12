@@ -3,7 +3,7 @@ layout: post
 title: "Fiddling with NeXTSTEP"
 date: 2011-12-29 22:36
 comments: true
-categories: [experiment, operating system]
+categories: [experiments, operating systems]
 ---
 
 I bought my first Mac just 3 or 4 years ago. Before that I used to alternate between Windows and Linux, mostly sticking to Linux. The flexibility and complexity was something I liked most about Linux. Compiling a new kernel each time I inserted a new piece of hardware into my computer and fixing errors until a game or application would compile and install successfully used to keep me entertained for days and nights on end. The absence of these exact things is what made me buy an Apple later; it just works.
