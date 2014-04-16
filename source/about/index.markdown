@@ -18,11 +18,10 @@ I'm particularly interested in experimenting with new technology and making it a
 
 I also like to reflect on how people interact with technical innovations using websites like [Please Rob Me](http://www.pleaserobme.com/) and [ePenis](http://www.epenis.nl/).
 
-You can find me on [Twitter as @boyvanamstel](http://twitter.com/boyvanamstel) and [boyvanamstel on App.net](https://alpha.app.net/boyvanamstel). Where I comment on tech news, talk about programming (mostly Mac/iOS and web orientated) and share 80's hits.
+You can find me on Twitter as [@boyvanamstel](http://twitter.com/boyvanamstel). Where I comment on tech news, talk about programming (mostly Mac/iOS and web orientated) and share 80's hits.
 
 <h2>Contact me</h2>
 * <strong>Twitter</strong>: [@boyvanamstel](http://twitter.com/boyvanamstel)
-* <strong>App.net</strong>: [boyvanamstel](https://alpha.app.net/boyvanamstel)
 * <strong>Email</strong>: boy [at] this domain
-* <strong>Apps</strong>: [dangercove.com](http://dangercove.com)
+* <strong>Apps</strong>: [dangercove.com](http://www.dangercove.com)
 

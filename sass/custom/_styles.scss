@@ -20,4 +20,10 @@ aside.sidebar {
     @include border-radius(none);
     @include box-shadow(none);
   }
+  .app_list {
+    li { margin: 10px 0; }
+    a { display: block; text-align: center; font-size: 12px; }
+    span { display: block; }
+    .app_icon { max-width: 128px; }
+  }
 }
