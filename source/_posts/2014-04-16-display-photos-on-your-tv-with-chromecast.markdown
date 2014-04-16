@@ -6,7 +6,7 @@ comments: true
 categories: [tutorial, gadgets, chromecast, google]
 ---
 
-or display anything on your TV actually, using your Chromecast. 
+or display anything on your TV actually, from your Mac or PC. 
 
 When I first got Google's gadget (it only just came out in The Netherlands), I was a bit underwhelmed. Google's vision for it seems to be that all content should be available online and that your mobile phone or tablet is the primary input device. This means that streaming photos, videos or audio from your Mac or PC is not as easy as it sounds.
 
