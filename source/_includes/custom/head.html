@@ -1,3 +1,20 @@
 <!--Fonts from Google's Web font directory at http://google.com/webfonts -->
 <link href='http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@{{ site.twitter_user }}">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+<meta name="twitter:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
+<meta name="twitter:creator" content="@{{ site.twitter_user }}">
+<meta name="twitter:image:src" content="http://www.boyvanamstel.nl/images/2013-venice2-small.jpg">
+<meta name="twitter:domain" content="boyvanamstel.nl">
+<meta name="twitter:app:name:iphone" content="">
+<meta name="twitter:app:name:ipad" content="">
+<meta name="twitter:app:name:googleplay" content="">
+<meta name="twitter:app:url:iphone" content="">
+<meta name="twitter:app:url:ipad" content="">
+<meta name="twitter:app:url:googleplay" content="">
+<meta name="twitter:app:id:iphone" content="">
+<meta name="twitter:app:id:ipad" content="">
+<meta name="twitter:app:id:googleplay" content="">
