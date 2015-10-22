@@ -8,3 +8,4 @@ comments: true
 Briefly considered using [Realmac's Typed](https://www.typed.com) blogging platform, before reconsidering and just switching back to a plain Jekyll site.
 
 It's so clean.
+![So good](/images/media/memes/so-good.png)
