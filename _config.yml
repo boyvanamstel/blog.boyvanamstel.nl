@@ -1,8 +1,8 @@
 # Site settings
-title: Boy on tech, dev and 80's hits
+title: Boy on tech, dev and 80s hits
 #email: boy@boyvanamstel.nl
 description: > # this means to ignore newlines until "baseurl:"
-  Captain of Danger Cove. Creator of Mac apps. I talk about being a software indie, video games and 80's hits. 
+  Captain of Danger Cove. Creator of Mac apps. I talk about being a software indie, video games and 80s hits. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.boyvanamstel.nl" # the base hostname & protocol for your site
 twitter_username: boyvanamstel
