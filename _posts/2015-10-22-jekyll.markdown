@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Jekyll"
+date: 2015-10-22 15:25
+comments: true
+---
+
+Briefly considered using [Realmac's Typed](https://www.typed.com) blogging platform, before reconsidering and just switching back to a plain Jekyll site.
+
+It's so clean.
