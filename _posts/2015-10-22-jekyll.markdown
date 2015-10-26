@@ -5,7 +5,7 @@ date: 2015-10-22 15:25
 comments: true
 ---
 
-Briefly considered using [Realmac's Typed](https://www.typed.com) blogging platform, before reconsidering and just switching back to a plain Jekyll site.
+Briefly considered using [Realmac's Typed](https://www.typed.com) blogging platform, before ditching the idea and just switching back to a plain Jekyll site.
 
 It's so clean.
 ![So good](/images/media/memes/so-good.png)
