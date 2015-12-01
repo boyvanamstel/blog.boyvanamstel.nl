@@ -11,3 +11,10 @@ permalink: /:year/:month/:title/
 
 # Build settings
 markdown: kramdown
+
+# Gems
+gems:
+  - jekyll-sitemap
+
+# Exclude files
+exclude: [Gemfile, Gemfile.lock, deploy.sh]
