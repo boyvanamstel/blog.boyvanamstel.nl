@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Moved to Typed"
+date: 2016-01-13 10:00
+comments: true
+---
+
+Trying something new all together. I'm posting all the stuff I learn (and know) on [Typed](http://boy.typed.com).
