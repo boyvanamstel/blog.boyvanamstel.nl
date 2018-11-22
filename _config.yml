@@ -18,3 +18,4 @@ gems:
 
 # Exclude files
 exclude: [Gemfile, Gemfile.lock, deploy.sh]
+include: [_redirects]
