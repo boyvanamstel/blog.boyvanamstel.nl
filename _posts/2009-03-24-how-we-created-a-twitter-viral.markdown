@@ -6,7 +6,7 @@ comments: true
 categories: [web apps, inpiration, marketing, virals, twitter]
 ---
 
-A few weeks ago Barry Borsboom and I had funny idea for a twitter mash-up. We would basically measure your Twitter popularity in the form of a giant penis. Better know as the e-Penis. In order to see if we really created something to talk about, Seth Godin would call this the sneeze-factor, we registered an url: [www.epenis.nl](http://www.epenis.nl) and we uploaded our e-Penis app with a few 'share-this' buttons. The first button to post it on Twitter, and the second one to Digg it. Would people share this site with their friends? How fast would it spread? All question a marketer would like to know when creating a viral marketing campaign right?
+A few weeks ago Barry Borsboom and I had a funny idea for a twitter mash-up. We would basically measure your Twitter popularity in the form of a giant penis. Better know as the e-Penis. In order to see if we really created something to talk about, Seth Godin would call this the sneeze-factor, we registered an url: [www.epenis.nl](http://www.epenis.nl) and we uploaded our e-Penis app with a few 'share-this' buttons. The first button to post it on Twitter, and the second one to Digg it. Would people share this site with their friends? How fast would it spread? All question a marketer would like to know when creating a viral marketing campaign right?
 
 ![](/images/media/epenis/epenis1.png)
 
